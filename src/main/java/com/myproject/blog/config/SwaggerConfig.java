@@ -56,8 +56,8 @@ public class SwaggerConfig {
 
 	private ApiInfo getInfo() {
 
-		return new ApiInfo("Blogging Application backend", "This Project is developed by Prashant Bhadula", "1.0",
-				"Terms of Service", new Contact("Prashant", "", "pbhadula19@gmail.com"), "License of API's",
+		return new ApiInfo("Blogging Application backend", "This Project is developed by Ankesh Mishra", "1.0",
+				"Terms of Service", new Contact("Ankesh", "", "connectankesh@gmail.com"), "License of API's",
 				"APi License URL", Collections.emptyList());
 	}
 
